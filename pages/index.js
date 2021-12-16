@@ -9,7 +9,7 @@ const Page = () =>{
             <Box display="{{md: 'flex'}}">
                 <Box flexGrow={1}>
                     <Heading as="h2" variant="page-title">
-                        Luis Lucas
+                        Luis Silva
                     </Heading>
                     <p>Digital Blacksmith ( Developer / Gamer / Trinker ) </p>
                 </Box>
